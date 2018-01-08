@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+        <file>icons/_graph.png</file>
+        <file>icons/analysis.png</file>
+        <file>icons/closeProgram.png</file>
+        <file>icons/closeProject.png</file>
+        <file>icons/data.png</file>
+        <file>icons/dataAdd.png</file>
+        <file>icons/export.png</file>
+        <file>icons/graph.png</file>
+        <file>icons/import.png</file>
+        <file>icons/info.png</file>
+        <file>icons/input.png</file>
+        <file>icons/newProject.png</file>
+        <file>icons/openProject.png</file>
+        <file>icons/output.png</file>
+        <file>icons/project.png</file>
+        <file>icons/saveAsProject.png</file>
+        <file>icons/saveProject.png</file>
+        <file>icons/windowIcon.png</file>
+  </qresource>
+</RCC>
